@@ -40,16 +40,23 @@
 <h2>Операционные системы</h2>
 <div>
     <img alt="Static Badge" src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoSize=auto&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/AlmaLinux-007DC3?style=for-the-badge&logo=almalinux&logoSize=auto&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/macos-white?style=for-the-badge&logo=apple&logoSize=auto&logoColor=black">
 </div>
 
 <h2>В планах</h2>
 <div>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=openjdk&logoSize=auto&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoSize=auto&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/AlmaLinux-007DC3?style=for-the-badge&logo=almalinux&logoSize=auto&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+    <img alt="Nix" src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white">
+    <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 </div>
 
+<h2>В далёких планах</h2>
+<div>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=openjdk&logoSize=auto&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoSize=auto&logoColor=white">
+</div>
 
 
 
